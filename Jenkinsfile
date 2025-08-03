@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Clone') {
             steps {
-                git 'https://github.com/yourusername/your-repo.git'
+                git 'https://github.com/Sahal102/freestyle.git'
             }
         }
 
